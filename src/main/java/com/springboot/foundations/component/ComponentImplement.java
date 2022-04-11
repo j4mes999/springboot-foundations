@@ -1,4 +1,4 @@
-package component;
+package com.springboot.foundations.component;
 
 import org.springframework.stereotype.Component;
 
